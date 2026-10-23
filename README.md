@@ -10,6 +10,7 @@ Scored work from [DataDriven](https://datadriven.io/u/civil_owl_2867), committed
 
 | Week | Score | Rank | |
 |---|---:|---|---|
+| [Week 5: The Close](./weekly/week-05-the-close) | 0.0000 | #9 of 13 | [brief](https://datadriven.io/community/week-5) |
 | [Week 3: The Register](./weekly/week-03-the-register) | 0.8494 | #4 of 14 | [brief](https://datadriven.io/community/week-3) |
 
 <!-- datadriven:index:end -->
