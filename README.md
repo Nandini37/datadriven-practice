@@ -17,6 +17,7 @@ Scored work from [DataDriven](https://datadriven.io/u/civil_owl_2867), committed
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Views by Content Type](./practice/sql/views-by-content-type) | SQL | Medium | 2026-10-23 |
 | [Ghosts in the Scheduler](./practice/sql/ghosts-in-the-scheduler) | SQL | Easy | 2026-10-23 |
 | [Regional Profits](./practice/sql/regional-profits) | SQL | Easy | 2026-09-18 |
 | [High-Output Creators](./practice/sql/high-output-creators) | SQL | Easy | 2026-09-18 |
