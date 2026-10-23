@@ -17,6 +17,7 @@ Scored work from [DataDriven](https://datadriven.io/u/civil_owl_2867), committed
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Regional Profits](./practice/sql/regional-profits) | SQL | Easy | 2026-09-18 |
 | [High-Output Creators](./practice/sql/high-output-creators) | SQL | Easy | 2026-09-18 |
 | [Transaction Source Features](./practice/sql/transaction-source-features) | SQL | Easy | 2026-09-17 |
 | [The Crown Jewels](./practice/sql/the-crown-jewels) | SQL | Easy | 2026-09-17 |
