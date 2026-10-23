@@ -17,6 +17,7 @@ Scored work from [DataDriven](https://datadriven.io/u/civil_owl_2867), committed
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Transaction Source Features](./practice/sql/transaction-source-features) | SQL | Easy | 2026-09-17 |
 | [The Crown Jewels](./practice/sql/the-crown-jewels) | SQL | Easy | 2026-09-17 |
 | [Two-Way Street](./practice/sql/two-way-street) | SQL | Medium | 2026-08-15 |
 | [Where the Minutes Go](./practice/sql/where-the-minutes-go) | SQL | Hard | 2026-08-15 |
