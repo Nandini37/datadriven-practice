@@ -20,7 +20,6 @@ Scored work from [DataDriven](https://datadriven.io/u/civil_owl_2867), committed
 | [Regional Profits](./practice/spark/regional-profits) | Spark | Easy | 2026-10-23 |
 | [30-Day Page View Counts](./practice/spark/30-day-page-view-counts) | Spark | Easy | 2026-10-23 |
 | [Views by Content Type](./practice/spark/views-by-content-type) | Spark | Medium | 2026-10-23 |
-| [Views by Content Type](./practice/sql/views-by-content-type) | SQL | Medium | 2026-10-23 |
 | [Ghosts in the Scheduler](./practice/spark/ghosts-in-the-scheduler) | Spark | Easy | 2026-10-23 |
 | [Regional Profits](./practice/sql/regional-profits) | SQL | Easy | 2026-09-18 |
 | [High-Output Creators](./practice/sql/high-output-creators) | SQL | Easy | 2026-09-18 |
