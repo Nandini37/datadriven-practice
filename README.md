@@ -19,8 +19,9 @@ Scored work from [DataDriven](https://datadriven.io/u/civil_owl_2867), committed
 |---|---|---|---|
 | [30-Day Page View Counts](./practice/sql/30-day-page-view-counts) | SQL | Easy | 2026-10-23 |
 | [Views by Content Type](./practice/sql/views-by-content-type) | SQL | Medium | 2026-10-23 |
-| [Ghosts in the Scheduler](./practice/sql/ghosts-in-the-scheduler) | SQL | Easy | 2026-10-23 |
+| [Views by Content Type](./practice/spark/views-by-content-type) | Spark | Medium | 2026-10-23 |
 | [Ghosts in the Scheduler](./practice/spark/ghosts-in-the-scheduler) | Spark | Easy | 2026-10-23 |
+| [Ghosts in the Scheduler](./practice/sql/ghosts-in-the-scheduler) | SQL | Easy | 2026-10-23 |
 | [Regional Profits](./practice/sql/regional-profits) | SQL | Easy | 2026-09-18 |
 | [High-Output Creators](./practice/sql/high-output-creators) | SQL | Easy | 2026-09-18 |
 | [Transaction Source Features](./practice/sql/transaction-source-features) | SQL | Easy | 2026-09-17 |
